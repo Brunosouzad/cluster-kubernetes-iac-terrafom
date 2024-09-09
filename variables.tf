@@ -4,3 +4,4 @@ variable "tf_profile" {
 }
 
 variable "prefix" {}
+variable "cluster_name" {}

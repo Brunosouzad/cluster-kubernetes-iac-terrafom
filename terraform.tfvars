@@ -1,1 +1,2 @@
-prefix = "full-cycle"
+prefix       = "full-cycle"
+cluster_name = "cursofc"
