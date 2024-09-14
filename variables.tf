@@ -1,7 +1,5 @@
-variable "tf_profile" {
-  type    = string
-  default = "brunodsouza"
-}
-
+variable "tf_profile" {}
 variable "prefix" {}
 variable "cluster_name" {}
+variable "retention_days" {}
+variable "resgion" {}
